@@ -29,29 +29,30 @@ npm i react
 npm i react-dom
 npm i react-webcam
 
+Demo Screenshot
+![Face Detect Screenshot](https://github.com/user-attachments/assets/b6721d91-2e5f-4fcd-8594-388124b7b742)
+
 
 ## 🚀 Start the Development Server
 npm run dev (if using vitejs)
 ```
 
-🖥️ How It Works
+# 🖥️ How It Works
 Loads FaceMesh Model from TensorFlow.js
 Captures Live Video Feed via react-webcam
 Processes Facial Features and detects key points
 Draws Mesh Over the Face using canvas
 
-Demo Screenshot
-![Face Detect Screenshot](https://github.com/user-attachments/assets/b6721d91-2e5f-4fcd-8594-388124b7b742)
 
 
-🤖 Future Enhancements
+# 🤖 Future Enhancements
 ✅ Improve face landmark accuracy
 ✅ Add emotion recognition
 ✅ Implement face tracking filters
 🤝 Contributing
 Feel free to submit issues and pull requests! 🚀
 
-📜 License
+# 📜 License
 MIT License.
 
 
