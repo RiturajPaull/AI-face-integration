@@ -21,11 +21,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/RiturajPaull/AI-face-integration.git
 cd AI-face-integration
 
-
-
-
-
- Install Dependencies
+## 🚀 Install Dependencies
 npm i @mediapipe/face_mesh
 npm i @tensorflow-models/facemesh
 npm i @tensorflow/tfjs
@@ -34,5 +30,5 @@ npm i react-dom
 npm i react-webcam
 
 
-Start the Development Server
+## 🚀 Start the Development Server
 npm run dev (if using vitejs)
